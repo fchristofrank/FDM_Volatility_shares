@@ -63,3 +63,19 @@ Wishing you all the best in the coming year.
 
 With heartfelt thanks,
 Christo Frank
+
+
+Dear Simbas Team,
+
+I'm writing to inform you that today will be my last day at [Company Name].
+
+I've thoroughly enjoyed my time working with you all over the past three months. The team's fast-paced, dynamic environment, coupled with the exciting projects, has been incredibly stimulating. While I wish I had the opportunity to contribute more fully, I'm truly grateful for the experience and the chance to be part of such a talented and dedicated group.
+
+I would like to express my sincere gratitude to [Manager's Name] for giving me this opportunity. Additionally, I'm deeply appreciative of the guidance and support provided by [Rajendra's Name] and [Ratna's Name]. Their ability to manage so many tasks simultaneously is truly admirable. And a special thanks to [Mohana's Name] for her invaluable assistance during the onboarding process.
+
+Although I haven't had the chance to work directly with everyone, I'm confident that each of you plays a vital role in the team's success and the development of this product.
+
+Thank you all for your support and camaraderie. I hope our paths cross again in the future.
+
+Best regards,
+[Your Name]
